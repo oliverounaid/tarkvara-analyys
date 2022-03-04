@@ -31,20 +31,20 @@
 
 ## Use Case stsenaariumid
 
- **UC - Registreerimine**
+ **UC1 - Registreerimine**
  - Sisestada: Nimi, Email, Parool
  - Saata kinnitus Emailile (email verification)
  - (Kasutajate lisa kinnitus - SMARTID/IDkaart?)
  
- **UC - Toote lisamine**
+ **UC2 - Toote lisamine**
  - Sisestada: Nimi, Asukoht, Seisukord, Hind, Tüüp
  
- **UC - konto kustutamine**
+ **UC3 - konto kustutamine**
  - Nupuvajutus "muuda profiili" lehel
  - Kinnitus Emailile
  - Konto ning kontoga seonduvate toodete eemaldamine andmebaasist
  
- **UC - Kontakteerumine**
+ **UC4 - Kontakteerumine**
  - Nupuvajutus "Kontakteeru" väljavalitud toote kirjelduse juures
  - Saadab sõnumi keskkonnas teisele kasutajale
  - Emaili teavitus sõnumi saanud kasutajale
