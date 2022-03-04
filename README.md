@@ -51,7 +51,7 @@
  - Toote omanikul võimalus vastata sõnumile
 
 ## Wireframe
-[Link](https://kak.sharepoint.com/:b:/s/DVDprojekt/EQis2JDCTbpNglZ5ItcsDvcBgbzTblEnMCoznT-cEE594A?e=jtxGrf)
+[Link](https://kak.sharepoint.com/:b:/r/sites/DVDprojekt/Shared%20Documents/General/Untitled_0066v10.pdf?csf=1&web=1&e=oIVzIB)
 
 ## Issues
 [Link](https://oounaid.atlassian.net/jira/software/projects/DVD/boards/2/backlog)
