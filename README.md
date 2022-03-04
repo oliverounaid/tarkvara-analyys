@@ -28,3 +28,27 @@
 **Admin**
 - Kõikide kasutajate haldus
 - Teavituste saatmine
+
+## Use Case stsenaariumid
+
+ **UC - Registreerimine**
+ - Sisestada: Nimi, Email, Parool
+ - Saata kinnitus Emailile (email verification)
+ - (Kasutajate lisa kinnitus - SMARTID/IDkaart?)
+ 
+ **UC - Toote lisamine**
+ - Sisestada: Nimi, Asukoht, Seisukord, Hind, Tüüp
+ 
+ **UC - konto kustutamine**
+ - Nupuvajutus "muuda profiili" lehel
+ - Kinnitus Emailile
+ - Konto ning kontoga seonduvate toodete eemaldamine andmebaasist
+ 
+ **UC - Kontakteerumine**
+ - Nupuvajutus "Kontakteeru" väljavalitud toote kirjelduse juures
+ - Saadab sõnumi keskkonnas teisele kasutajale
+ - Emaili teavitus sõnumi saanud kasutajale
+ - Toote omanikul võimalus vastata sõnumile
+
+## Wireframe
+ 
