@@ -52,3 +52,6 @@
 
 ## Wireframe
 [Link](https://kak.sharepoint.com/:b:/s/DVDprojekt/EQis2JDCTbpNglZ5ItcsDvcBgbzTblEnMCoznT-cEE594A?e=jtxGrf)
+
+## Issues
+[Link](https://oounaid.atlassian.net/jira/software/projects/P5/boards/1)
