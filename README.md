@@ -51,4 +51,4 @@
  - Toote omanikul võimalus vastata sõnumile
 
 ## Wireframe
- 
+[Link](https://kak.sharepoint.com/:b:/s/DVDprojekt/EQis2JDCTbpNglZ5ItcsDvcBgbzTblEnMCoznT-cEE594A?e=jtxGrf)
