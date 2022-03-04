@@ -21,7 +21,7 @@
 
 **Kasutaja**
 - Toodete vaatamine/otsimine
-- Oma toodete sistestamine/muutmine/kustutamine
+- Oma toodete sisestamine/muutmine/kustutamine
 - Teiste kasutajatega kontakteerumine
 - Oma kasutajaandmete muutmine/kasutaja kustutamine
 
